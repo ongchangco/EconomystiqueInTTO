@@ -1,0 +1,72 @@
+[
+    {
+        "Product ID": "C001",
+        "Product Name": "Chocolate Moist Cake",
+        "Quantity": 10,
+        "Price": 850,
+        "Quantity Sold": 3
+    },
+    {
+        "Product ID": "C002",
+        "Product Name": "Yema Vanilla Cake",
+        "Quantity": 4,
+        "Price": 760,
+        "Quantity Sold": 0
+    },
+    {
+        "Product ID": "C003",
+        "Product Name": "Caramel Cake",
+        "Quantity": 10,
+        "Price": 820,
+        "Quantity Sold": 0
+    },
+    {
+        "Product ID": "C004",
+        "Product Name": "Ube Caramel Cake",
+        "Quantity": 3,
+        "Price": 750,
+        "Quantity Sold": 0
+    },
+    {
+        "Product ID": "C005",
+        "Product Name": "Red Velvet Cake",
+        "Quantity": 1,
+        "Price": 850,
+        "Quantity Sold": 0
+    },
+    {
+        "Product ID": "C006",
+        "Product Name": "Pandan Cake",
+        "Quantity": 17,
+        "Price": 760,
+        "Quantity Sold": 1
+    },
+    {
+        "Product ID": "C007",
+        "Product Name": "Strawberry Cake",
+        "Quantity": 11,
+        "Price": 780,
+        "Quantity Sold": 0
+    },
+    {
+        "Product ID": "C008",
+        "Product Name": "Biscoff Mocha Cake",
+        "Quantity": 7,
+        "Price": 900,
+        "Quantity Sold": 0
+    },
+    {
+        "Product ID": "C009",
+        "Product Name": "Bento Cake",
+        "Quantity": -2,
+        "Price": 370,
+        "Quantity Sold": 0
+    },
+    {
+        "Product ID": "C0010",
+        "Product Name": "Cupcake",
+        "Quantity": -1,
+        "Price": 40,
+        "Quantity Sold": 0
+    }
+]

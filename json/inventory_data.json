@@ -1,0 +1,359 @@
+{
+    "September": [
+        [
+            "IN001",
+            "All-purpose Flour",
+            "White King",
+            "Grams",
+            "500",
+            "3000",
+            "0"
+        ],
+        [
+            "IN002",
+            "Baking Powder",
+            "Calumet",
+            "Grams",
+            "100",
+            "0",
+            "0"
+        ],
+        [
+            "IN003",
+            "Baking Soda",
+            "Queen",
+            "Grams",
+            "50",
+            "0",
+            "250"
+        ],
+        [
+            "IN004",
+            "Cocoa Powder",
+            "JB15",
+            "Grams",
+            "250",
+            "1500",
+            "0"
+        ],
+        [
+            "IN005",
+            "White Sugar",
+            "N/A",
+            "Grams",
+            "500",
+            "0",
+            "1000"
+        ],
+        [
+            "IN006",
+            "Brown Sugar",
+            "N/A",
+            "Grams",
+            "800",
+            "0",
+            "2000"
+        ],
+        [
+            "IN007",
+            "Powdered Sugar",
+            "N/A",
+            "Grams",
+            "500",
+            "500",
+            "0"
+        ],
+        [
+            "IN008",
+            "Butter",
+            "Anchor",
+            "Grams",
+            "0",
+            "0",
+            "681"
+        ],
+        [
+            "IN009",
+            "Cream Cheese",
+            "Denver",
+            "Grams",
+            "113",
+            "0",
+            "452"
+        ],
+        [
+            "IN010",
+            "Vegetable Oil",
+            "UFC",
+            "Milliliters",
+            "500",
+            "0",
+            "2000"
+        ],
+        [
+            "IN011",
+            "Vanilla Extract",
+            "Bakersfield",
+            "Milliliters",
+            "15",
+            "40",
+            "0"
+        ],
+        [
+            "IN012",
+            "Milk",
+            "N/A",
+            "Milliliters",
+            "0",
+            "1000",
+            "0"
+        ],
+        [
+            "IN013",
+            "Eggs",
+            "N/A",
+            "Dozens",
+            "1",
+            "0",
+            "5"
+        ]
+    ],
+    "October": [
+        [
+            "IN001",
+            "All-purpose Flour",
+            "White King",
+            "Grams",
+            "100",
+            "0",
+            "3000"
+        ],
+        [
+            "IN002",
+            "Baking Powder",
+            "Calumet",
+            "Grams",
+            "50",
+            "100",
+            "0"
+        ],
+        [
+            "IN003",
+            "Baking Soda",
+            "Queen",
+            "Grams",
+            "225",
+            "0",
+            "0"
+        ],
+        [
+            "IN004",
+            "Cocoa Powder",
+            "JB15",
+            "Grams",
+            "100",
+            "0",
+            "1500"
+        ],
+        [
+            "IN005",
+            "White Sugar",
+            "N/A",
+            "Grams",
+            "800",
+            "0",
+            "0"
+        ],
+        [
+            "IN006",
+            "Brown Sugar",
+            "N/A",
+            "Grams",
+            "1500",
+            "0",
+            "0"
+        ],
+        [
+            "IN007",
+            "Powdered Sugar",
+            "N/A",
+            "Grams",
+            "0",
+            "0",
+            "500"
+        ],
+        [
+            "IN008",
+            "Butter",
+            "Anchor",
+            "Grams",
+            "227",
+            "454",
+            "0"
+        ],
+        [
+            "IN009",
+            "Cream Cheese",
+            "Philadelphia",
+            "Grams",
+            "452",
+            "0",
+            "0"
+        ],
+        [
+            "IN010",
+            "Vegetable Oil",
+            "UFC",
+            "Milliliters",
+            "1700",
+            "0",
+            "0"
+        ],
+        [
+            "IN011",
+            "Vanilla Extract",
+            "Bakersfield",
+            "Milliliters",
+            "0",
+            "0",
+            "40"
+        ],
+        [
+            "IN012",
+            "Milk",
+            "N/A",
+            "Milliliters",
+            "0",
+            "0",
+            "1000"
+        ],
+        [
+            "IN013",
+            "Eggs",
+            "N/A",
+            "Dozens",
+            "3",
+            "0",
+            "0"
+        ]
+    ],
+    "November": [
+        [
+            "IN001",
+            "All-purpose Flour",
+            "White King",
+            "Grams",
+            "13250",
+            "2500",
+            "0"
+        ],
+        [
+            "IN002",
+            "Baking Powder",
+            "Calumet",
+            "Grams",
+            "500",
+            "0",
+            "100"
+        ],
+        [
+            "IN003",
+            "Baking Soda",
+            "Queen",
+            "Grams",
+            "250",
+            "0",
+            "0"
+        ],
+        [
+            "IN004",
+            "Cocoa Powder",
+            "JB15",
+            "Grams",
+            "1750",
+            "0",
+            "0"
+        ],
+        [
+            "IN005",
+            "White Sugar",
+            "N/A",
+            "Grams",
+            "8250",
+            "1000",
+            "0"
+        ],
+        [
+            "IN006",
+            "Brown Sugar",
+            "N/A",
+            "Grams",
+            "6700",
+            "0",
+            "0"
+        ],
+        [
+            "IN007",
+            "Powdered Sugar",
+            "N/A",
+            "Grams",
+            "3500",
+            "0",
+            "0"
+        ],
+        [
+            "IN008",
+            "Butter",
+            "Anchor",
+            "Grams",
+            "7450",
+            "0",
+            "500"
+        ],
+        [
+            "IN009",
+            "Cream Cheese",
+            "Philadelphia",
+            "Grams",
+            "1335",
+            "0",
+            "0"
+        ],
+        [
+            "IN010",
+            "Vegetable Oil",
+            "UFC",
+            "Milliliters",
+            "1500",
+            "0",
+            "0"
+        ],
+        [
+            "IN011",
+            "Vanilla Extract",
+            "Bakersfield",
+            "Milliliters",
+            "300",
+            "0",
+            "0"
+        ],
+        [
+            "IN012",
+            "Milk",
+            "N/A",
+            "Milliliters",
+            "5000",
+            "0",
+            "0"
+        ],
+        [
+            "IN013",
+            "Eggs",
+            "N/A",
+            "Pieces",
+            "36",
+            "5",
+            "0"
+        ]
+    ]
+}
